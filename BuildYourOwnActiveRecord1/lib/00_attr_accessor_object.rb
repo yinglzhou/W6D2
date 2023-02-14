@@ -12,10 +12,5 @@ class AttrAccessorObject
 
     end
 
-    
-
-    
-
-
   end
 end
